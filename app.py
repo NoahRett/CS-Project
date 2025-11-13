@@ -1,3 +1,4 @@
-print ("Hello World")
+import streamlit as st
 
-print ("Hello Again")
+st.write("Hello, World!")
+
